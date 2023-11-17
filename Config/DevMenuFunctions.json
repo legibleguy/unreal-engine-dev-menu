@@ -1,0 +1,29 @@
+﻿{
+  "functions": {
+    "Test Log": {
+      "Path": "Test",
+      "ClassName": "MyGameLib",
+      "FunctionName": "TestLog"
+    },
+    "Blueprint Log": {
+      "Path": "Test2",
+      "ClassName": "BPLib_C",
+      "FunctionName": "MyBPFun"
+    },
+    "Blueprint Log In subfolder": {
+      "Path": "Test2/testSubfolder",
+      "ClassName": "BPLib_C",
+      "FunctionName": "MyBPFun"
+    },
+    "Blueprint Log In Root Level": {
+      "Path": "",
+      "ClassName": "BPLib_C",
+      "FunctionName": "MyBPFun"
+    },
+    "Blueprint Log In Sub Sub Level": {
+      "Path": "Test2/testSubfolder/testSubSubfolder",
+      "ClassName": "BPLib_C",
+      "FunctionName": "MyBPFun"
+    }
+  }
+}

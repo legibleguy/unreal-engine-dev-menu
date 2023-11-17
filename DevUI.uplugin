@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DevUI",
+	"Description": "Dev UI can be called form anywhere in the game to trigger gameplay functions. The contents of the menu are adjusted via a config file",
+	"Category": "Other",
+	"CreatedBy": "Andy Solovyov",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DevUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
